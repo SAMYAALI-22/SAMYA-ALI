@@ -10,7 +10,7 @@
 
 - 🎓 I am an engineer at Bennett University **(B.Tech, Computer Science and Engineering, Batch of 2028)**.
 
--   🌱 I’m currently learning **Java**.
+-   🌱 I’m currently learning **Java & C#**.
 
 -  ⚡ Fun fact **I love making videos and writing stories**.
 
